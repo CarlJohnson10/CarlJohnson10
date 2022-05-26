@@ -6,7 +6,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="sumitpanwar10 | Facebook" width="22px" src="https://cdn-icons.flaticon.com/png/512/2626/premium/2626269.png?token=exp=1653414013~hmac=3973c9753d977e0c9c052bfa7e1da8ce" />](facebook.com/sumit.panwar.3701)
+[<img align="left" alt="sumitpanwar10 | Facebook" width="22px" src="https://cdn-icons.flaticon.com/png/512/2626/premium/2626269.png?token=exp=1653414013~hmac=3973c9753d977e0c9c052bfa7e1da8ce" />](https://facebook.com/sumit.panwar.3701)
 [<img align="left" alt="sumitpanwar10  | LinkedIn" width="22px" src="https://cdn-icons.flaticon.com/png/512/4494/premium/4494497.png?token=exp=1653414013~hmac=b86b246b9bcf65bd97da11fa779d563a" />](https://www.linkedin.com/in/sumitpanwar10/)
 [<img align="left" alt="sumitpanwar10  | Instagram" width="22px" src="https://cdn-icons.flaticon.com/png/512/3955/premium/3955024.png?token=exp=1653414013~hmac=eb5b323738de5c82300a2c60162fc083" />](https://www.instagram.com/sumit_panwar10)
 
