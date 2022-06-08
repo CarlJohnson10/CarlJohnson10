@@ -1,6 +1,10 @@
 - 👋 Hi, I’m @sumitpanwar10
 - 🌱 I’m currently learning full stack development
 
+<br />
+
+![](https://komarev.com/ghpvc/?username=your-github-sumitpanwar10&color=blueviolet)
+
 
 ### Connect with me:
 
