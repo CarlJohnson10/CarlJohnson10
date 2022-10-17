@@ -8,9 +8,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="sumitpanwar10 | Facebook" width="22px" src="https://cdn-icons.flaticon.com/png/512/4494/premium/4494475.png?token=exp=1654961547~hmac=0792867b44bf9e01ffd1c141bb7ae4ba" />](https://facebook.com/sumit.panwar.3701)
-[<img align="left" alt="sumitpanwar10  | LinkedIn" width="22px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1654961547~hmac=f73047ecce4612fa0d65e5f4332e9169" />](https://www.linkedin.com/in/sumitpanwar10/)
-[<img align="left" alt="sumitpanwar10  | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />](https://www.instagram.com/sumit_panwar10)
+[<img align="left" alt="sumitpanwar10 | Facebook" width="22px" src="https://i.imgur.com/KacRLOO.png" />](https://facebook.com/sumit.panwar.3701)
+[<img align="left" alt="sumitpanwar10  | LinkedIn" width="22px" src="https://i.imgur.com/1gADuIQ.png" />](https://www.linkedin.com/in/sumitpanwar10/)
+[<img align="left" alt="sumitpanwar10  | Instagram" width="22px" src="https://i.imgur.com/QqfGKq0.png" />](https://www.instagram.com/sumit_panwar10)
 
 <br />
 
