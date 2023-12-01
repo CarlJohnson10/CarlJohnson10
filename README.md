@@ -32,9 +32,7 @@
 
 <br />
 
-<br />
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sumitpanwar10&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
